@@ -11,7 +11,7 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm Minh Dinh Tuan
+# 👋 Hi, I'm Minh Dinh Tuan
 
 ---
 
