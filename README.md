@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://i.pinimg.com/originals/9a/a3/5e/9aa35edded370761aff4065510146b56.gif)
+![Banner]([https://i.pinimg.com/originals/9a/a3/5e/9aa35edded370761aff4065510146b56.gif](https://www.pinterest.com/pin/1104015296178669263/))
 
 ---
 
@@ -11,7 +11,6 @@
 <!-- ============================= -->
 
 # Hi, I'm [Your Name]  
-**[Your tagline here — one line that summarizes your mission/skills.]**
 
 ---
 
@@ -20,10 +19,8 @@
 <!-- ============================= -->
 
 ## About Me  
-[Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
-Keep it personable and approachable, but professional.]  
+Coder with 29 minutes of experiments  
 
-🎥 Optional: Add a link to your YouTube channel or other platform.  
 
 ---
 
