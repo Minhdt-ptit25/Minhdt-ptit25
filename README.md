@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <div align="center">
-  <img src="https://i.pinimg.com/webp87/1200x/56/5d/67/565d67b0808e022c7e5d9cccef5e06fb.webp" alt="Banner" width="100%">
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/7571948/original_62799c15ef9cae41c009ad750658b265.gif?1591518599" alt="Banner" width="100%">
 </div>
 
 
