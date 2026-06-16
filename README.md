@@ -2,14 +2,16 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://i.pinimg.com/736x/63/62/18/6362183d3c2d78fa381cc202016f56b4.jpg)
+<div align="center">
+  <img src="https://i.pinimg.com/736x/63/62/18/6362183d3c2d78fa381cc202016f56b4.jpg" alt="Banner" width="100%">
+</div>
 ---
 
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm [Your Name]  
+# Hi, I'm Minh Dinh Tuan
 
 ---
 
